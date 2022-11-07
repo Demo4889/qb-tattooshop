@@ -16,13 +16,13 @@ JayMenu = { }
 JayMenu.debug = false
 
 -- Local variables
-local menus = { }
-local keys = { 
-    up = 172, 
-    down = 173, 
-    left = 174, 
-    right = 175, 
-    select = 176, 
+local menus = {}
+local keys = {
+    up = 172,
+    down = 173,
+    left = 174,
+    right = 175,
+    select = 176,
     back = 177,
     mup = 181,
     mdown = 180,
